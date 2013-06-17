@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="MacRoman"?>
 <pmd-cpd>
 <duplication lines="51" tokens="188">
-<file line="13" path="/Users/Shared/Jenkins/Home/jobs/iOS_Test/workspace/./SampleTest/AppDelegate.m"/>
-<file line="13" path="/Users/Shared/Jenkins/Home/jobs/iOS_Test/workspace/./SampleTest/AppDelegate.m"/>
+<file line="13" path="/Users/Shared/Jenkins/Home/jobs/Sample_iOS_Setup/workspace/./SampleTest/AppDelegate.m"/>
+<file line="13" path="/Users/Shared/Jenkins/Home/jobs/Sample_iOS_Setup/workspace/./SampleTest/AppDelegate.m"/>
 <codefragment>
 <![CDATA[
 @implementation AppDelegate
